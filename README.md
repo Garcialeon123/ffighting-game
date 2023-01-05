@@ -1,1 +1,1 @@
-# ffighting-game
+My project is one v one fighting game. I always have loved fighting games in my time. While my passion for video games is strong, my love for it was tested for this assignment. Feel free to check it out. 
